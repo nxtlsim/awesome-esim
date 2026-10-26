@@ -14,6 +14,7 @@ eSIM lets a device download a mobile operator profile instead of using a plastic
 - [Guides](#guides)
 - [Provider APIs and SDKs](#provider-apis-and-sdks)
 - [Connectivity tools](#connectivity-tools)
+- [Free tools](#free-tools)
 - [MCP servers](#mcp-servers)
 - [Comparison sites](#comparison-sites)
 - [Related lists](#related-lists)
@@ -53,7 +54,6 @@ eSIM lets a device download a mobile operator profile instead of using a plastic
 
 - [eSIM on Wikipedia](https://en.wikipedia.org/wiki/ESIM) - History, architecture and terminology.
 - [OpenWrt mwan3 guide](https://openwrt.org/docs/guide-user/network/wan/multiwan/mwan3) - Multi-WAN load balancing and failover, e.g. with a cellular backup.
-- [esim-iot-backup-guides](https://github.com/nxtlsim/esim-iot-backup-guides) - Router failover and laptop backup-data setups with a travel eSIM.
 
 ## Provider APIs and SDKs
 
@@ -71,6 +71,16 @@ eSIM lets a device download a mobile operator profile instead of using a plastic
 - [speedtest-go](https://github.com/showwin/speedtest-go) - Speedtest CLI and library in Go.
 - [Cloudflare Speed Test](https://speed.cloudflare.com/) - Browser speed test with latency, jitter and packet-loss details.
 - [mwan3](https://github.com/openwrt/packages/tree/master/net/mwan3) - OpenWrt multi-WAN manager for failover to a cellular line.
+
+## Free tools
+
+- [travel-connection-check](https://github.com/nxtlsim/travel-connection-check) - Browser speed, latency and packet-loss test that shows how much data each test uses.
+- [trip-data-budget](https://github.com/nxtlsim/trip-data-budget) - Estimates mobile data needed for a trip from daily usage habits.
+- [esim-compatibility-check](https://github.com/nxtlsim/esim-compatibility-check) - Checks whether a phone, tablet or laptop model supports eSIM, including model-code lookup.
+- [team-data-planner](https://github.com/nxtlsim/team-data-planner) - Plans mobile data needs for a group or team across travellers and days.
+- [nxtl-balance-alerts](https://github.com/nxtlsim/nxtl-balance-alerts) - Telegram, Slack or email alerts before an NXTL Business eSIM balance runs low (Python script or GitHub Action).
+- [nxtl-webhook-starter](https://github.com/nxtlsim/nxtl-webhook-starter) - Webhook receiver that verifies HMAC signatures and forwards events to Slack (FastAPI or Cloudflare Worker).
+- [esim-iot-backup-guides](https://github.com/nxtlsim/esim-iot-backup-guides) - Router failover and laptop backup-data setups with a travel eSIM.
 
 ## MCP servers
 

@@ -52,6 +52,7 @@ eSIM lets a device download a mobile operator profile instead of using a plastic
 
 ## Guides
 
+- [China Travel Check](https://gochina.taoliapp.com/) - Verified English field manual for independent China travel, including eSIM/connectivity, payments, visas, and trains.
 - [eSIM on Wikipedia](https://en.wikipedia.org/wiki/ESIM) - History, architecture and terminology.
 - [OpenWrt mwan3 guide](https://openwrt.org/docs/guide-user/network/wan/multiwan/mwan3) - Multi-WAN load balancing and failover, e.g. with a cellular backup.
 

@@ -53,6 +53,8 @@ eSIM lets a device download a mobile operator profile instead of using a plastic
 ## Guides
 
 - [China Travel Check](https://gochina.taoliapp.com/) - Verified English field manual for independent China travel, including eSIM/connectivity, payments, visas, and trains.
+- [China iPhone eSIM vs writer cards (Chinese)](https://getgiffgaff.com/blog/china-iphone-esim-writer/) - Reading notes on mainland iPhone eSIM support boundaries vs removable writer cards; cites Apple docs (third-party tutorial site, not a carrier).
+- [lpac / EasyLPAC overseas eSIM notes (Chinese)](https://getgiffgaff.com/blog/esim-writer-lpac-2026-notes/) - Practical notes separating LPA interfaces, profiles and carrier support when using open-source lpac/EasyLPAC.
 - [eSIM on Wikipedia](https://en.wikipedia.org/wiki/ESIM) - History, architecture and terminology.
 - [OpenWrt mwan3 guide](https://openwrt.org/docs/guide-user/network/wan/multiwan/mwan3) - Multi-WAN load balancing and failover, e.g. with a cellular backup.
 
@@ -78,6 +80,7 @@ eSIM lets a device download a mobile operator profile instead of using a plastic
 - [travel-connection-check](https://github.com/nxtlsim/travel-connection-check) - Browser speed, latency and packet-loss test that shows how much data each test uses.
 - [trip-data-budget](https://github.com/nxtlsim/trip-data-budget) - Estimates mobile data needed for a trip from daily usage habits.
 - [esim-compatibility-check](https://github.com/nxtlsim/esim-compatibility-check) - Checks whether a phone, tablet or laptop model supports eSIM, including model-code lookup.
+- [getgiffgaff eSIM compatibility helper](https://getgiffgaff.com/tools/esim-compatibility/) - Browser helper for checking eSIM-related device questions in Chinese (third-party; not affiliated with GSMA or carriers).
 - [team-data-planner](https://github.com/nxtlsim/team-data-planner) - Plans mobile data needs for a group or team across travellers and days.
 - [nxtl-balance-alerts](https://github.com/nxtlsim/nxtl-balance-alerts) - Telegram, Slack or email alerts before an NXTL Business eSIM balance runs low (Python script or GitHub Action).
 - [nxtl-webhook-starter](https://github.com/nxtlsim/nxtl-webhook-starter) - Webhook receiver that verifies HMAC signatures and forwards events to Slack (FastAPI or Cloudflare Worker).

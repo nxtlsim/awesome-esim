@@ -90,6 +90,7 @@ Model Context Protocol servers that let AI assistants query eSIM providers.
 - [voidmob-mcp](https://github.com/voidmobcom/voidmob-mcp) - MCP server giving AI agents phone numbers, mobile proxies and travel eSIMs from VoidMob.
 - [roamzy-io/mcp-server](https://github.com/roamzy-io/mcp-server) - MCP server for buying Roamzy global eSIMs from an AI agent.
 - [esimagent-mcp](https://github.com/vladkomudrich/esimagent-mcp) - MCP server for eSIM Agent: search plans, compare providers and check device compatibility.
+- [Inbox eSIM MCP](https://inboxesim.com/.well-known/mcp.json) - Remote MCP server for Inbox eSIM: find data plans by destination and check device compatibility.
 
 ## Comparison sites
 

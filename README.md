@@ -64,6 +64,7 @@ eSIM lets a device download a mobile operator profile instead of using a plastic
   - [airalo-php-sdk](https://github.com/Airalo/airalo-php-sdk) - Official PHP SDK.
 - [NXTL B2B API reference](https://nxtlsim.com/nxtl-api-reference/) - REST API for issuing reusable data eSIMs, a pooled balance, usage reporting, thresholds and HMAC-signed webhooks. [OpenAPI 3.1 document](https://nxtlsim.com/wp-content/plugins/nxtl-data-esim-v2/docs/nxtl-v1-openapi.json).
   - [NXTL open-source repos](https://github.com/nxtlsim) - Balance alerts, webhook starter and setup guides.
+- [NXTL eSIM SDKs](https://github.com/nxtlsim/nxtl-esim-sdk) - Official TypeScript and Python clients for issuance, pooled top-up, usage, thresholds, and signed webhooks. [npm](https://www.npmjs.com/package/@nxtlsim/esim-sdk) · [PyPI](https://pypi.org/project/nxtl-esim/)
 
 ## Connectivity tools
 

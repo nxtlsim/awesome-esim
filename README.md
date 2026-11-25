@@ -100,6 +100,7 @@ Model Context Protocol servers that let AI assistants query eSIM providers.
 - [eSIMradar](https://esimradar.com/) - eSIM provider and plan comparison.
 - [eSIM Sherpa](https://esimsherpa.com/) - Reviews and provider alternatives.
 - [eSIM Podium](https://www.esimpodium.com/) - Comparison of one-off eSIM data plans.
+- [Sim Compared](https://simcompared.com/) - Comparison of travel eSIM plans, carrier roaming passes and local SIMs by destination.
 
 ## Related lists
 

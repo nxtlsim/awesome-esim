@@ -92,6 +92,7 @@ Model Context Protocol servers that let AI assistants query eSIM providers.
 - [roamzy-io/mcp-server](https://github.com/roamzy-io/mcp-server) - MCP server for buying Roamzy global eSIMs from an AI agent.
 - [esimagent-mcp](https://github.com/vladkomudrich/esimagent-mcp) - MCP server for eSIM Agent: search plans, compare providers and check device compatibility.
 - [Inbox eSIM MCP](https://inboxesim.com/.well-known/mcp.json) - Remote MCP server (hosted, no public source) for Inbox eSIM: find and compare plans by destination, check device compatibility and buy eSIMs.
+- [NXTL MCP](https://nxtlsim.com/mcp/) - Remote MCP server for NXTL eSIM. Sign in with OAuth; it is read-only by default and cannot charge your card. Eligible free and Premium accounts can connect. Endpoint: `https://nxtlsim.com/wp-json/nxtl-ai/v1/mcp`. [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.nxtlsim%2Fnxtl-esim/versions/latest) · [nxtl-mcp](https://github.com/nxtlsim/nxtl-mcp)
 
 ## Comparison sites
 
